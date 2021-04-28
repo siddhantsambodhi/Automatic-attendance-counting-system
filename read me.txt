@@ -1,0 +1,11 @@
+as you login, your attendance will automatically increase attendance by +=1
+
+Database
+
+name:presenty
+table:students
+
+col: ID varchar
+PASSWORD varchar
+present int
+absent int
